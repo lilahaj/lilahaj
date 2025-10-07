@@ -1,16 +1,17 @@
-## Hi there 👋
+## Moi! 👋
 
-<!--
-**lilahaj/lilahaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Olen **Fedor Zhabin**.  
+Opiskelen *tieto- ja viestintätekniikkaa* LAB-ammattikorkeakoulussa.  
 
-Here are some ideas to get you started:
+Tykkään erityisesti **web-suunnittelusta** ja **3D-mallinnuksesta**.  
+Yritän auttaa ihmisiä (ja itseäni) säästämään rahaa tulostamalla mm. auton osia.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tässä vielä hai (ei tosin minun tekemä):  
+```text
+                (`.
+                 \ `.
+                  )  `._..---._
+\`.       __...---`         o  )
+ \ `._,--'           ,    ___,'
+  ) ,-._          \  )   _,-'
+ /,'    ``--.._____\/--''
